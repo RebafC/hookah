@@ -35,7 +35,7 @@ and [Goutte](https://github.com/FriendsOfPHP/Goutte) 2.x. Goutte depends on [Guz
 
 Hookah can be cloned after from this github repository and installed following the procedure given below:
 
-* git clone git@github.com:younginnovations/hookah.git
+* git clone git@github.com:RebafC/hookah.git
 * cd hookah
 * composer install --prefer-dist
 
